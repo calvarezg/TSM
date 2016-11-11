@@ -1,6 +1,5 @@
-﻿using System;
-
-namespace TallerSoftwareMantenible.Negocio.ValoracionesPorISIN.ParameterObject
+﻿
+namespace TallerSoftwareMantenible.Negocio.ValoracionesPorISIN.TellDontAsk
 {
     public class PorcentajeDeCoberturaRevisado
     {
@@ -10,11 +9,10 @@ namespace TallerSoftwareMantenible.Negocio.ValoracionesPorISIN.ParameterObject
 
         public PorcentajeDeCoberturaRevisado(DatosDeValoracion losDatos)
         {
-            // TODO: Mas de una operacion
             losDiasMinimosAlVencimientoDelEmisor = losDatos.DiasMinimosAlVencimientoDelEmisor;
             elPorcentajeCobertura = losDatos.PorcentajeCobertura;
             losDiasAlVencimiento = new PlazoAlVencimiento(losDatos).EnDias();
-        }
+        }        
 
         private bool LosDiasAlVencimientoSonMenosQueLosPermitidos()
         {
