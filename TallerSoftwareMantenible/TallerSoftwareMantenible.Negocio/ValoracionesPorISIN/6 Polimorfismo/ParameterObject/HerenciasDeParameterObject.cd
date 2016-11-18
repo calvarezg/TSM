@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TallerSoftwareMantenible.Negocio.ValoracionesPorISIN.Polimorfismo.DatosDeISINNoAnotadoEnUDES" Collapsed="true">
+    <Position X="4.5" Y="5.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>ValoracionesPorISIN\6 Polimorfismo\ParameterObject\DatosDeISINNoAnotadoEnUDES.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TallerSoftwareMantenible.Negocio.ValoracionesPorISIN.Polimorfismo.DatosDeISIN" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIABAAAQEAAAAQAAAACAAAAIAAAAEAAAAAAAAAgAQ=</HashCode>
+      <FileName>ValoracionesPorISIN\6 Polimorfismo\ParameterObject\DatosDeISIN.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TallerSoftwareMantenible.Negocio.ValoracionesPorISIN.Polimorfismo.DatosDeISINAnotadoEnUDES" Collapsed="true">
+    <Position X="8" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>ValoracionesPorISIN\6 Polimorfismo\ParameterObject\DatosDeISINAnotadoEnUDES.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TallerSoftwareMantenible.Negocio.ValoracionesPorISIN.Polimorfismo.DatosDeISINAnotadoEnUDESAlTipoDeCambioActual" Collapsed="true">
+    <Position X="5" Y="6.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValoracionesPorISIN\6 Polimorfismo\ParameterObject\DatosDeISINAnotadoEnUDESAlTipoDeCambioActual.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TallerSoftwareMantenible.Negocio.ValoracionesPorISIN.Polimorfismo.DatosDeISINAnotadoEnUDESAlTipoDeCambioDeAyer" Collapsed="true">
+    <Position X="9.25" Y="6.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>ValoracionesPorISIN\6 Polimorfismo\ParameterObject\DatosDeISINAnotadoEnUDESAlTipoDeCambioDeAyer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TallerSoftwareMantenible.Negocio.ValoracionesPorISIN.Polimorfismo.DatosDeISINEnColones" Collapsed="true">
+    <Position X="11.75" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>ValoracionesPorISIN\6 Polimorfismo\ParameterObject\DatosDeISINEnColones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TallerSoftwareMantenible.Negocio.ValoracionesPorISIN.Polimorfismo.DatosDeISINEnUDES" Collapsed="true">
+    <Position X="7" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValoracionesPorISIN\6 Polimorfismo\ParameterObject\DatosDeISINEnUDES.cs</FileName>
+      <NewMemberFileName>ValoracionesPorISIN\6 Polimorfismo\ParameterObject\DatosDeISIN.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -200,6 +200,16 @@
     <Compile Include="ValoracionesPorISIN\5 TellDontAsk\ValoracionPorISIN\ISIN_Tests.cs" />
     <Compile Include="ValoracionesPorISIN\5 TellDontAsk\ValoracionPorISIN\PorcentajeDeCobertura_Tests.cs" />
     <Compile Include="ValoracionesPorISIN\5 TellDontAsk\ValoracionPorISIN\ValorDeMercado_Tests.cs" />
+    <Compile Include="ValoracionesPorISIN\6 Polimorfismo\MontoConvertido\ComoNumero_Tests.cs" />
+    <Compile Include="ValoracionesPorISIN\6 Polimorfismo\PlazoAlVencimiento\EnDias_Tests.cs" />
+    <Compile Include="ValoracionesPorISIN\6 Polimorfismo\PorcentajeDeCoberturaRevisado\ComoNumero.cs" />
+    <Compile Include="ValoracionesPorISIN\6 Polimorfismo\SaldoColonizado\ComoNumero.cs" />
+    <Compile Include="ValoracionesPorISIN\6 Polimorfismo\ValoracionDeMercado\ValoracionDeMercado.cs" />
+    <Compile Include="ValoracionesPorISIN\6 Polimorfismo\ValoracionPorISIN\AporteDeGarantia_Tests.cs" />
+    <Compile Include="ValoracionesPorISIN\6 Polimorfismo\ValoracionPorISIN\Escenarios.cs" />
+    <Compile Include="ValoracionesPorISIN\6 Polimorfismo\ValoracionPorISIN\ISIN_Tests.cs" />
+    <Compile Include="ValoracionesPorISIN\6 Polimorfismo\ValoracionPorISIN\PorcentajeDeCobertura_Tests.cs" />
+    <Compile Include="ValoracionesPorISIN\6 Polimorfismo\ValoracionPorISIN\ValorDeMercado_Tests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TallerSoftwareMantenible.Negocio\TallerSoftwareMantenible.Negocio.csproj">

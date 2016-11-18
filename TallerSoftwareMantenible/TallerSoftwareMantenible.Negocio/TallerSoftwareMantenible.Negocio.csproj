@@ -184,8 +184,19 @@
     <Compile Include="ValoracionesPorISIN\5 TellDontAsk\PorcentajeDeCoberturaRevisado.cs" />
     <Compile Include="ValoracionesPorISIN\5 TellDontAsk\ValoracionPorISIN.cs" />
     <Compile Include="ValoracionesPorISIN\5 TellDontAsk\ValorDeMercado.cs" />
+    <Compile Include="ValoracionesPorISIN\6 Polimorfismo\Monedas.cs" />
+    <Compile Include="ValoracionesPorISIN\6 Polimorfismo\ParameterObject\DatosDeISINEnUDES.cs" />
+    <Compile Include="ValoracionesPorISIN\6 Polimorfismo\ParameterObject\DatosDeISIN.cs" />
+    <Compile Include="ValoracionesPorISIN\6 Polimorfismo\ParameterObject\DatosDeISINNoAnotadoEnUDES.cs" />
+    <Compile Include="ValoracionesPorISIN\6 Polimorfismo\ParameterObject\DatosDeISINAnotadoEnUDES.cs" />
+    <Compile Include="ValoracionesPorISIN\6 Polimorfismo\ParameterObject\DatosDeISINEnColones.cs" />
+    <Compile Include="ValoracionesPorISIN\6 Polimorfismo\ParameterObject\DatosDeISINAnotadoEnUDESAlTipoDeCambioDeAyer.cs" />
+    <Compile Include="ValoracionesPorISIN\6 Polimorfismo\ParameterObject\DatosDeISINAnotadoEnUDESAlTipoDeCambioActual.cs" />
+    <Compile Include="ValoracionesPorISIN\6 Polimorfismo\PlazoAlVencimiento.cs" />
+    <Compile Include="ValoracionesPorISIN\6 Polimorfismo\PorcentajeDeCoberturaRevisado.cs" />
+    <Compile Include="ValoracionesPorISIN\6 Polimorfismo\ValoracionPorISIN.cs" />
+    <Compile Include="ValoracionesPorISIN\6 Polimorfismo\ValorDeMercado.cs" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
     <None Include="CodigosDeReferencia\2 ConFunciones\ArbolDeFunciones.dgml" />
     <None Include="CodigosDeReferencia\3 ConObjetos\1 ArbolDeLlamados.dgml" />
@@ -207,6 +218,7 @@
     <None Include="ValoracionesPorISIN\3 Objetos\A Objetos.dgml" />
     <None Include="ValoracionesPorISIN\4 ParameterObject\A Objetos.dgml" />
     <None Include="ValoracionesPorISIN\5 TellDontAsk\A Objetos.dgml" />
+    <None Include="ValoracionesPorISIN\6 Polimorfismo\ParameterObject\HerenciasDeParameterObject.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
